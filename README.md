@@ -16,7 +16,7 @@ cd Proxy-Server-with-logging-SQL-queries/src
 make proxy_start
 ```
 
-*``./proxy` 4568 127.0.0.1 5432*
+*`./proxy` 4568 127.0.0.1 5432*
 
 ### **Connect to proxy-server (need to use a different terminal)**
 
