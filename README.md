@@ -12,7 +12,7 @@ The proxy can handle a large number of simultaneous connections. Only SQL querie
 
 ```bash
 git clone git@github.com:Hasuk1/Proxy-Server-with-logging-SQL-queries.git
-cd src
+cd Proxy-Server-with-logging-SQL-queries/src
 make proxy_start
 ```
 
